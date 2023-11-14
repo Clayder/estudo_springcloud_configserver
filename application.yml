@@ -3,5 +3,5 @@ spring:
     name: greet-api
 
 greet-api:
-  greet: "Dev Olá"
+  greet: "Dev Olá GitHub"
   default-value: "Dev"
