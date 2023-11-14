@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: greet-api
+
+greet-api:
+  greet: "Perf Olá"
+  default-value: "Mundo Perf"
